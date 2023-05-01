@@ -1,7 +1,7 @@
 <div align="center">
     <img src=".github/assets/delta-code-logo-icon.svg" alt="Ícone da logo da Delta Code" width="110rem" />
     <h1>Delta Code | Desafios</h1>
-    <a href="front-end-engineer-challenge.md">Front-end Engineer</a> &#x2022; <a href="full-stack-engineer-challenge.md">Full-Stack Engineer</a> &#x2022; <a href="back-end-engineer-challenge.md">Back-end Engineer</a>
+    <a href="challenges/front-end-engineer-challenge.md">Front-end Engineer</a> &#x2022; <a href="challenges/full-stack-engineer-challenge.md">Full-Stack Engineer</a> &#x2022; <a href="challenges/back-end-engineer-challenge.md">Back-end Engineer</a>
 </div>
 <br/>
 
