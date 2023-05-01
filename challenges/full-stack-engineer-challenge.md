@@ -2,7 +2,7 @@
 <h1>Desafio de Full-Stack Engineer</h1>
 <p>Bem-vindo ao desafio de <b>Full-Stack Engineer</b> da Delta Code!</p>
 <div align="center">
-    <img src=".github/assets/calendar-challenge-preview.jpg" alt="Prévia do desafio de calendário da Delta Code" />
+    <img src="../.github/assets/calendar-challenge-preview.jpg" alt="Prévia do desafio de calendário da Delta Code" />
 </div>
 
 ## Orientações

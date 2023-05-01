@@ -2,7 +2,7 @@
 <h1>Desafio de Front-end Engineer</h1>
 <p>Bem-vindo ao desafio de <b>Front-end Engineer</b> da Delta Code!</p>
 <div align="center">
-    <img src=".github/assets/calendar-challenge-preview.jpg" alt="Prévia do desafio de calendário da Delta Code" />
+    <img src="../.github/assets/calendar-challenge-preview.jpg" alt="Prévia do desafio de calendário da Delta Code" />
 </div>
 
 ## Orientações
