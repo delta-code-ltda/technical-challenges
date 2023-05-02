@@ -1,4 +1,4 @@
-<img src=".github/assets/delta-code-logo-icon.svg" alt="Ícone da logo da Delta Code" width="90rem" align="right"/>
+<img src="../.github/assets/delta-code-logo-icon.svg" alt="Ícone da logo da Delta Code" width="90rem" align="right"/>
 <h1>Desafio de Front-end Engineer</h1>
 <p>Bem-vindo ao desafio de <b>Front-end Engineer</b> da Delta Code!</p>
 <div align="center">
@@ -11,8 +11,7 @@
 - As telas no layout são protótipos fictícios de uma aplicação desenvolvida pela Delta Code, havendo duas versões disponíveis: web e mobile.
 - Escolha uma delas para desenvolver, ou, se preferir, pode desenvolver as duas. (Só esteja seguro de que terá tempo suficiente para desenvolver o teste em até 7 dias!)
 - A aplicação mobile deverá ser desenvolvida em React Native e a aplicação web em React.
-- O uso de TypeScript é opcional.
-- Não é necessário desenvolver um serviço de Back-end (ou API) que fornece os dados a aplicação, mas você pontuará demais caso desenvolva! (E novamente, cuidado com o prazo!)
+- O uso de TypeScript é obrigatório.
 - Importante: o objetivo deste teste é verificar a qualidade do seu código e como você resolve um problema específico. Além disso, é importante demonstrar que como desenvolvedor, você consegue replicar a interface que foi desenhada pela designer em código JavaScript.
 - Por isso, existe uma restrição aqui: você DEVE desenvolver o componente de calendário DO ZERO, isto é, não utilizar uma lib externa para isso. É o ponto principal do teste!
 
